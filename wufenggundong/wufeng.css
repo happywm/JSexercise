@@ -1,0 +1,6 @@
+/* CSS Document */
+
+*body{margin:0px; padding:0px;}
+#div1{width:512px; height:128px; margin:100px auto; position:relative; border:1px solid red; background:green; overflow:hidden;}
+#div1 ul{position:absolute; left:-40px; top:-18px;}
+#div1 ul li{float:left; list-style:none ;width:128px; height:128px;}
